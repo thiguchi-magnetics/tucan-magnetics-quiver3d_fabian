@@ -1,0 +1,13 @@
+Started +x y=120 11:15 unable to lower bar to red line, 8mm high (cyclotron side) 
+Started +x y=40 11:29 unable to lower bar to red line, 8mm high (cyclotron side)
+Started +x y=-40 11:36 unable to lower bar to red line, 5mm high (cyclotron side)
+Started +x y=-120 11:44 unable to lower bar to red line, 2mm high (cyclotron side)
+Started +x y=-200 11:54 unable to lower bar to red line, 4mm high (cyclotron side)
+Started +x y=-280 12:02 unable to lower bar to red line, 2mm high (cyclotron side) 
+Started -x y=-280 12:19
+Started -x y=-200 12:30 
+Started -x y=-120 12:40 
+Started -x y=-40 12:50 unable to lower bar to red line, 3mm high (cyclotron side)
+Started -x y=40 13:02 unable to lower bar to red line, 6mm high (cyclotron side)
+Started -x y=120 13:14 unable to lower bar to red line, 9mm high (cyclotron side)
+Ended at 13:23

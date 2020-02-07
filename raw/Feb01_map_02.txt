@@ -1,0 +1,8 @@
+Started +x y=-340 13:57 
+Started +x y=-240 14:16
+Started +x y=-160 14:42 
+Started +x y=-80 15:06 
+Started +x y=0 15:23, unable to lower bar to red line, 5mm high
+Started +x y=80 15:43, unable to lower bar to red line, 7mm high
+Started +x y=160 16:00, unable to lower bar to red line, 3mm high
+run ended 16:15

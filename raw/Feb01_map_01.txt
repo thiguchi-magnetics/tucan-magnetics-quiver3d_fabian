@@ -1,0 +1,9 @@
+Started -x y=160 10:28
+Started -x y=80 10:48 
+Started -x y=0 11:14 
+Started -x y=-80 11:34
+Started -x y=-160 11:55 
+Started -x y=-240 12:13
+Started -x y=-320 12:34
+
+run ended 12:54
